@@ -18,5 +18,5 @@ where the authors try:
 ### Downloading Abstracts
 ![Downloading Abstracts](/images/DownloadingAbstracts.jpg)
 
-### Save Abstracts in SQLite Database
+### Saved Abstracts in SQLite Database
 ![Saved Abstracts](/images/SavedAbstracts.jpg)
